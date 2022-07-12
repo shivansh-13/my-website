@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "451e13011e568320e57359421ca752cd",
+    "revision": "de72edcc8f00debfd8914e5d99afcec1",
     "url": "/my-website/index.html"
   },
   {
-    "revision": "2f88a62420b9ec6707f6",
+    "revision": "c4b7f32f36161ffb33ea",
     "url": "/my-website/static/css/3.00373544.chunk.css"
   },
   {
-    "revision": "0bfc5dd213ba47444704",
+    "revision": "a569f0e656a567baa218",
     "url": "/my-website/static/css/4.3e7d09e6.chunk.css"
   },
   {
-    "revision": "51d4e3688356e3da01cd",
+    "revision": "6145dbde22493fcef136",
     "url": "/my-website/static/css/main.883533a3.chunk.css"
   },
   {
-    "revision": "8216fd190bd59193157f",
-    "url": "/my-website/static/js/2.193e9e65.chunk.js"
+    "revision": "284d6f5f9d74c94d5251",
+    "url": "/my-website/static/js/2.166317ae.chunk.js"
   },
   {
     "revision": "3d4186a67aba203694a5f10d101a5461",
-    "url": "/my-website/static/js/2.193e9e65.chunk.js.LICENSE.txt"
+    "url": "/my-website/static/js/2.166317ae.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2f88a62420b9ec6707f6",
-    "url": "/my-website/static/js/3.f7cffe75.chunk.js"
+    "revision": "c4b7f32f36161ffb33ea",
+    "url": "/my-website/static/js/3.a342f75b.chunk.js"
   },
   {
-    "revision": "0bfc5dd213ba47444704",
-    "url": "/my-website/static/js/4.7e28fc2c.chunk.js"
+    "revision": "a569f0e656a567baa218",
+    "url": "/my-website/static/js/4.51f69a12.chunk.js"
   },
   {
-    "revision": "51d4e3688356e3da01cd",
-    "url": "/my-website/static/js/main.8af3ef3c.chunk.js"
+    "revision": "6145dbde22493fcef136",
+    "url": "/my-website/static/js/main.b205cfdc.chunk.js"
   },
   {
-    "revision": "742010e552447275e6eb",
-    "url": "/my-website/static/js/runtime-main.c3a62704.js"
+    "revision": "467f7abaec18aac6ea96",
+    "url": "/my-website/static/js/runtime-main.3d400789.js"
   },
   {
     "revision": "47542b3abba10454a4685670eb3fcafb",
@@ -56,6 +56,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my-website/static/media/1613791081930.062885b7.jpeg"
   },
   {
+    "revision": "66f8a0a346e53475af7acdfb60a89b4e",
+    "url": "/my-website/static/media/9-512.66f8a0a3.webp"
+  },
+  {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
     "url": "/my-website/static/media/Agustina.21f233e1.woff"
   },
@@ -66,10 +70,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6252aadefcdc32c3d977eeb72360a147",
     "url": "/my-website/static/media/Postman - Postman Student Expert - 2022-02-27.6252aade.6252aade.png"
-  },
-  {
-    "revision": "48126460d35d035b31df572db7dc5cae",
-    "url": "/my-website/static/media/Untitled design.48126460.png"
   },
   {
     "revision": "cc3f11528aab1849458f6effa1ae4040",
@@ -90,6 +90,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "540a8d54d4761b02c4128138ad1dca3d",
     "url": "/my-website/static/media/glitch.540a8d54.540a8d54.png"
+  },
+  {
+    "revision": "c2cc0d7ebd0c1cf418624a45a6089686",
+    "url": "/my-website/static/media/iitgnlogo-emblem.c2cc0d7e.png"
   },
   {
     "revision": "7aaaae456c3b92af5ed08aad3ff1d6d6",
